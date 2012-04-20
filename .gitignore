@@ -1,2 +1,2 @@
-# ignore files with extension un
-*.un
+# ignore files with extension un (~)
+.*~
