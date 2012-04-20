@@ -1,0 +1,13 @@
+net "clock" loc = ad8;
+#net "signal_out" loc = f19;
+
+net "led[0]" loc = e13;
+net "led[1]" loc = d14;
+net "led[2]" loc = e12;
+net "led[3]" loc = f12;
+#net "led[4]" loc = d15;
+#net "led[5]" loc = e15;
+#net "led[6]" loc = e10;
+#net "led[7]" loc = e11;
+
+net "reset_n" loc = t23;
